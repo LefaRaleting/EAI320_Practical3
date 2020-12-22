@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 13 13:39:46 2020
 
-@author: Boris
+@author: Lefa Raleting
 """
 
 import numpy as np
